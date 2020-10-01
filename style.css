@@ -37,7 +37,7 @@
 }
 
 .icon-bar{
-	background-color: green;
+	background-color: white;
 }
 
 
@@ -59,7 +59,7 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: green;
+	background-color: white;
 	border-bottom: 1px solid black;
 	color: black;
 	display: block;
